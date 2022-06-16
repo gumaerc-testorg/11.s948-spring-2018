@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The required and recommended books for 11.S948
 learning_resource_types: []
 ocw_type: CourseSection
 title: Primary Course Texts
