@@ -1,30 +1,29 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8c6c53e0-9890-3954-5629-4124b86efe45
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Class meetings: 1 session / week, 3 hours / session 
 
-Prerequisites
--------------
+## Prerequisites
 
 There are no specific prerequisites for this course, but permission of the instructor is required for enrollment.
 
-Brief Course Description (_aka_ "Why did I ever sign up for this?")
--------------------------------------------------------------------
+## Brief Course Description (*aka* "Why did I ever sign up for this?")
 
-“I could taste in my mouth world, sheer world.”
-
-—Vivian Gornick, “Letter From Greenwich Village”
+> “I could taste in my mouth world, sheer world.”
+> 
+> —Vivian Gornick, “Letter From Greenwich Village”
 
 The modern city—with its attractive industry, remarkable vitality, strange solitudes, and varied human contrasts—gathers peoples and forces with such dynamism that it can seem as incomprehensible as it is interesting. How, then, does one see the city in its varied complexity, and with a rich understanding of the lives, institutions, and sensibilities that animate it? How best to communicate the possibilities and frustrations of the city—especially on those perennial topics which are too often met with indifference or fatigue? Indeed, by telling its stories. This course will explore the city through writing—listening to the voices of poets, short story writers, novelists, journalists, critics, historians, ethnographers, urbanists, musicians, filmmakers, and visual artists—and, through extensive reading that will inform their work on a longform story, students will join the chorus of storytellers to richly represent the variegated city. Our focus will be on three nonfiction forms—essay, memoir, literary narrative—with special emphasis on the writer-editor relationship and on revision as a heuristic to better thinking.
 
-Expectations and Responsibilities
----------------------------------
+## Expectations and Responsibilities
 
 A seminar is a conversation, and you benefit if you come prepared to talk, listen, and reflect. You will be at a disadvantage if you haven’t completed the assigned reading, listening, viewing, and writing, all of which prepares you to more richly participate and learn from your fellow conversationalists. Unprepared or underprepared, you also leave the rest of us at a disadvantage, since we won’t get to hear your insights and criticisms, all of which makes us better readers, listeners, and writers.
 

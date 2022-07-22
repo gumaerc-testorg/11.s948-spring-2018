@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The required and recommended books for 11.S948
+learning_resource_types: []
+ocw_type: CourseSection
 title: Primary Course Texts
 uid: 4ca6d70d-3226-7f10-a436-138a53bb15e2
 ---
@@ -25,7 +28,7 @@ Mohsin Hamid (2018). _Exit West._ Moshin Hamid  ISBN: 9780735212206.
 
 John Freeman, ed. (2017). _Tales of Two Americas: Stories of Inequality in a Divided Nation._ Penguin Books. ISBN: 9780143131038.
 
-Edward P. Jones (2012). _Lost in the City_, 20th Anniversary Edition. Amistad Press. ISBN: 9780062193216.
+Edward P. Jones (2012). _Lost in the City_, 20{{< sup "th" >}} Anniversary Edition. Amistad Press. ISBN: 9780062193216.
 
 Claudia Rankine (2014). _Citizen: An American Lyric._ Graywolf Press. ISBN: 9781555976903.
 
@@ -40,13 +43,13 @@ Recommended References on Style and Usage 
 
 Writing, rewriting, revision, reading, writing writing writing. And then more revision. That’s a good way to think of this class. Fine reference books on writing that are helpful, but not necessary, for this class, but that will be of great benefit if they are within close reach:
 
-_The Chicago Manual of Style_, 17th Edition (2017). University of Chicago Press. ISBN: 9780226287058.
+_The Chicago Manual of Style_, 17{{< sup "th" >}} Edition (2017). University of Chicago Press. ISBN: 9780226287058.
 
-Bryan A. Garner (2016). _Garner’s Modern English Usage_, 4th Edition. Oxford University Press. ISBN: 9780190491482.
+Bryan A. Garner (2016). _Garner’s Modern English Usage_, 4{{< sup "th" >}} Edition. Oxford University Press. ISBN: 9780190491482.
 
 \--------------- (2016). _The Chicago Guide to Grammar, Usage, and Punctuation._ University of Chicago Press. ISBN: 9780226188850.
 
-Christine A. Lindberg et al. (2012)._Oxford American Writer’s Thesaurus_, 3rd Edition. Oxford University Press. ISBN: 9780199829927.
+Christine A. Lindberg et al. (2012)._Oxford American Writer’s Thesaurus_, 3{{< sup "rd" >}} Edition. Oxford University Press. ISBN: 9780199829927.
 
 Recommended References on Editing and Fact-Checking 
 ----------------------------------------------------
