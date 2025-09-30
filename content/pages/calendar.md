@@ -27,13 +27,13 @@ Week 1: On Possibilities 
  
 {{< tdclose >}}{{< tdopen >}}
 
-Dr. Seuss, [“Oh, The Places You’ll Go”](http://denuccio.net/ohplaces.html)
+Dr. Seuss, {{% resource_link "2c50d18b-1d15-4ce2-8882-0916aede80c1" "“Oh, The Places You’ll Go”" %}}
 
-Robert Macfarlane, [“The Gifts of Reading”](http://lithub.com/the-gifts-of-reading-are-many/)
+Robert Macfarlane, {{% resource_link "d5989779-ee76-4e7c-929f-782285976113" "“The Gifts of Reading”" %}}
 
-George Saunders, [“On Story” (YouTube)](https://www.youtube.com/watch?v=1-1xNNrABw8)
+George Saunders, {{% resource_link "6e2e72fb-6e60-4d03-b1b1-9fe1419e6d53" "“On Story” (YouTube)" %}}
 
-Excerpt from *Before Sunrise*, [“Bring Me the Horns of Wilmington’s Cow” (YouTube)](https://www.youtube.com/watch?v=2ni8sfxVyFQ)
+Excerpt from *Before Sunrise*, {{% resource_link "9039f357-8b3d-4941-9491-4a41dde581eb" "“Bring Me the Horns of Wilmington’s Cow” (YouTube)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -44,38 +44,38 @@ Week 2: On Blind Spots 
 (In which we look at how we overlook, ignore, exclude things in our field of vision because we are inadvertently or willfully blind to them)
 
 {{< tdclose >}}{{< tdopen >}}
-[Vijay Iyer](https://en.wikipedia.org/wiki/Vijay_Iyer)
+{{% resource_link "e187d4c5-5cd0-4cf2-90d9-90fdd0d73f7f" "Vijay Iyer" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-George Saunders, [“In Defense of Darkness” (YouTube)](https://www.youtube.com/watch?v=1X5u8Li3Qew)
+George Saunders, {{% resource_link "d61dd4f7-1035-45b5-808a-0f3e4444a412" "“In Defense of Darkness” (YouTube)" %}}
 
-Annie Dillard, [“Seeing” (PDF)](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf)
+Annie Dillard, {{% resource_link "c972b0eb-1e63-49e8-b61d-f5aa2493d23d" "“Seeing” (PDF)" %}}
 
-Excerpts from Teju Cole’s [“Blind Spot”](https://www.newyorker.com/culture/photo-booth/second-sight)
+Excerpts from Teju Cole’s {{% resource_link "59a224a4-2663-49da-b1b0-8ca7ea2b5624" "“Blind Spot”" %}}
 
-W. H. Auden, [“As I Walked Out One Evening”](https://www.poets.org/poetsorg/poem/i-walked-out-one-evening)
+W. H. Auden, {{% resource_link "203c7652-a1ee-46e3-ad59-e5d6519028f0" "“As I Walked Out One Evening”" %}}
 
-A Tribe Called Quest, [“We the People” (YouTube)](https://www.youtube.com/watch?v=vO2Su3erRIA)
+A Tribe Called Quest, {{% resource_link "74d6bfcf-a1fe-42d9-b65d-6ab3610df7d2" "“We the People” (YouTube)" %}}
 
-Ruddy Roye’s [Instagram page](https://www.instagram.com/ruddyroye/?hl=en)
+Ruddy Roye’s {{% resource_link "25a6b836-63a1-412d-8bbf-f5f92ea46d88" "Instagram page" %}}
 
 Recommended:
 
-Vijay Iyer, [Holding It Down](https://vijayiyer.bandcamp.com/album/holding-it-down-the-veterans-dreams-project)
+Vijay Iyer, {{% resource_link "e8b48997-ce4c-4a47-b8fb-15e26b426ff1" "Holding It Down" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 3: On Structure
 {{< tdclose >}}{{< tdopen >}}
-[Anastasia Taylor-Lind](https://en.wikipedia.org/wiki/Anastasia_Taylor-Lind)
+{{% resource_link "fcac8262-d639-441c-98d7-17d122ef5268" "Anastasia Taylor-Lind" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-George Saunders on not panicking: ["On the Tricks of the Writing Process" (YouTube)](https://www.youtube.com/watch?v=klz6C2ewXmo)
+George Saunders on not panicking: {{% resource_link "ed5a99a8-3237-4eeb-83fa-c4562efedf53" "\"On the Tricks of the Writing Process\" (YouTube)" %}}
 
-John McPhee, [“Structure”](https://www.newyorker.com/magazine/2013/01/14/structure) (also in *Draft No. 4*)
+John McPhee, {{% resource_link "9c5c6748-7d79-4178-a076-666e54ca1bd8" "“Structure”" %}} (also in *Draft No. 4*)
 
-David Ulin on John McPhee: [“*Draft No. 4*: The Legendary John McPhee’s “master class in the writer’s craft”](http://niemanstoryboard.org/stories/draft-no-4-the-legendary-john-mcphees-master-class-in-the-writers-craft/)
+David Ulin on John McPhee: {{% resource_link "93abe50f-7814-4c14-b888-4e1c9947d546" "“*Draft No. 4*: The Legendary John McPhee’s “master class in the writer’s craft”" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -91,25 +91,25 @@ Week 4: On Movement
  
 {{< tdclose >}}{{< tdopen >}}
 
-Virginia Woolf, [“Street Haunting”](http://s.spachman.tripod.com/Woolf/streethaunting.htm)
+Virginia Woolf, {{% resource_link "6b8bd769-08f7-4b85-8119-f43d5866bf74" "“Street Haunting”" %}}
 
-Antonia Malachik, [“The End of Walking”](https://aeon.co/essays/step-by-step-americans-are-sacrificing-the-right-to-walk)
+Antonia Malachik, {{% resource_link "3c6389f1-ec39-4664-82c2-aae4f655bd48" "“The End of Walking”" %}}
 
-Lauren Goff, [“Ghosts and Empties”](https://www.newyorker.com/magazine/2015/07/20/ghosts-and-empties)
+Lauren Goff, {{% resource_link "33b4c0ce-7944-47e7-abba-002bb2e0719f" "“Ghosts and Empties”" %}}
 
-John Edgar Wideman, [“Williamsburg Bridge”](https://harpers.org/archive/2015/11/williamsburg-bridge/?single=1)
+John Edgar Wideman, {{% resource_link "aff0b6a3-acd6-4b72-a07e-484275c56419" "“Williamsburg Bridge”" %}}
 
-Walt Whitman, [“Song of the Open Road”](https://www.poetryfoundation.org/poems/48859/song-of-the-open-road)
+Walt Whitman, {{% resource_link "2f29f1c7-daeb-41f2-ad85-ed9eb940c230" "“Song of the Open Road”" %}}
 
-Lana Del Ray, [“Fordham Road” (YouTube)](https://www.youtube.com/watch?v=GCTXN0QnISQ)
+Lana Del Ray, {{% resource_link "ec3fa20c-ee40-42f8-8297-c775650cfb27" "“Fordham Road” (YouTube)" %}}
 
 Recommended:
 
-Rachel Wetzsteon, [“Thoughts While Walking”](https://www.poetryfoundation.org/poems/54132/thoughts-while-walking-56d23422cff33)
+Rachel Wetzsteon, {{% resource_link "7e2eed61-fd14-472c-acb0-f1374d4c6033" "“Thoughts While Walking”" %}}
 
-Robert Frost, [“The Fear”](https://poets.org/poem/fear-0)
+Robert Frost, {{% resource_link "b05b5315-601b-4848-a191-761dcf528cff" "“The Fear”" %}}
 
-Robert Creeley, [“Walking”](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=29779)
+Robert Creeley, {{% resource_link "826dbbb3-defa-4bbb-a959-df474a050250" "“Walking”" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Essay #1 due
@@ -124,7 +124,7 @@ Tracy Kidder and Richard Todd, *Good Prose*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 6: On Reporting
 {{< tdclose >}}{{< tdopen >}}
-[Carlo Rotella](https://en.wikipedia.org/wiki/Carlo_Rotella)
+{{% resource_link "d7a8fc10-1347-46d8-acc1-f53ee6c532c6" "Carlo Rotella" %}}
 {{< tdclose >}}{{< tdopen >}}
 John McPhee, *Draft No. 4*
 {{< tdclose >}}{{< tdopen >}}
@@ -132,7 +132,7 @@ John McPhee, *Draft No. 4*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 7: On Intimacy: The power of the personal voice
 {{< tdclose >}}{{< tdopen >}}
-[Anna Badhken](https://www.annabadkhen.com/)
+{{% resource_link "92fa9b4e-ec47-4ab7-a0cc-e96fe816def5" "Anna Badhken" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Vivian Gornick, *The Situation and the Story*
@@ -145,19 +145,19 @@ Vivian Gornick, *The Situation and the Story*
 Week 8: On Memory
 {{< tdclose >}}{{< tdopen >}}
 
-[Kushanava Choudhury](https://journalism.princeton.edu/people/kushanava-choudhury/)
+{{% resource_link "963731e2-e857-473d-93a6-338d7e27dec6" "Kushanava Choudhury" %}}
 
-[Vivek Bald](https://cmsw.mit.edu/profile/vivek-bald/)
+{{% resource_link "0befbf9b-4bec-4397-9e03-158528c1cfc7" "Vivek Bald" %}}
 
-[Suketu Mehta](https://en.wikipedia.org/wiki/Suketu_Mehta)
+{{% resource_link "0309fc6a-1527-474b-b9b9-943975be2583" "Suketu Mehta" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-William Dalrymple, ["A Love Letter to Kolkata"](https://www.theguardian.com/books/2017/aug/27/the-epic-city-world-on-the-streets-of-calcutta-kushanava-choudhury-review) (review of *Epic City*)
+William Dalrymple, {{% resource_link "c72072e0-fcde-4cfa-b279-993b7c05e8e9" "\"A Love Letter to Kolkata\"" %}} (review of *Epic City*)
 
 Suketu Mehta, *Maximum City*
 
-Suketu Mehta, ["This Land Is Their Land"](http://foreignpolicy.com/2017/09/12/this-land-is-their-land-america-europe-fear-of-migrants-trump/)
+Suketu Mehta, {{% resource_link "07ffa8d7-1312-448b-8a16-3547aaa8cf38" "\"This Land Is Their Land\"" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Essay #2 due
@@ -173,11 +173,11 @@ Week 9: On Meaning
 
 “The Meaning of Cities”—*Hedgehog Review*, Summer 2017 issue
 
-Richard Wilbur, [“To The Student Protesters”](https://www.pbs.org/newshour/arts/poetry/politics-gets-hand-turn-poem)
+Richard Wilbur, {{% resource_link "53e4f281-e85f-46af-8e46-c0977bf3fdbf" "“To The Student Protesters”" %}}
 
-James Baldwin, [“Fifth Avenue, Uptown”](http://www.esquire.com/news-politics/a3638/fifth-avenue-uptown/)
+James Baldwin, {{% resource_link "3c7b130d-f2cb-4d4c-8d51-1ac485dd9647" "“Fifth Avenue, Uptown”" %}}
 
-Dave Chappelle, from [“Killing Them Softly” (YouTube)](https://www.youtube.com/watch?v=ofnSojq-vqI&t=4s) (watch 2:27 to 4:12, especially 3:08 to 4:12)
+Dave Chappelle, from {{% resource_link "d9a0caaa-8cee-41a2-8085-4f130c638b9f" "“Killing Them Softly” (YouTube)" %}} (watch 2:27 to 4:12, especially 3:08 to 4:12)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -213,15 +213,15 @@ Week 12: On Vulnerability
 
 Edward P. Jones, *Lost in the City*
 
-Lauren Elkin, [“Radical Flaneuserie”](https://www.theparisreview.org/blog/2016/08/25/radical-flaneuserie/)
+Lauren Elkin, {{% resource_link "be1e5b94-a587-4dd6-9426-f2d72a67abc3" "“Radical Flaneuserie”" %}}
 
-Masha Gessen, [“Why We Must Protest”](http://lithub.com/masha-gessen-why-we-must-protest/)
+Masha Gessen, {{% resource_link "a0cb5407-7dca-45b3-94d9-4d8fcabcde14" "“Why We Must Protest”" %}}
 
-Lauren Elkin, [“Donald Trump: Anti-Flaneur”](http://lithub.com/donald-trump-anti-flaneur) 
+Lauren Elkin, {{% resource_link "382e8eb9-8a40-44a7-af83-2d80d01a391c" "“Donald Trump: Anti-Flaneur”" %}} 
 
-Patsy Cline, [“Walkin’ After Midnight” (YouTube)](https://www.youtube.com/watch?v=xiKsAuv7O7c) (lyrics [here](https://www.azlyrics.com/lyrics/patsycline/walkingaftermidnight.html))
+Patsy Cline, {{% resource_link "95886450-64c0-46d3-85db-bec8de1c3815" "“Walkin’ After Midnight” (YouTube)" %}} (lyrics {{% resource_link "d0d759e8-3167-44de-aaeb-6048d38072f9" "here" %}})
 
-Ava DuVernay, dir. (2014). [*Selma*](https://en.wikipedia.org/wiki/Selma_%28film%29). Paramount Pictures.
+Ava DuVernay, dir. (2014). {{% resource_link "c01fa9df-55e9-4004-bd80-ab70bddac476" "*Selma*" %}}. Paramount Pictures.
 
 {{< tdclose >}}{{< tdopen >}}
  
