@@ -36,7 +36,7 @@ Layli Long Soldier (2017). _Whereas._ Graywolf Press. ISBN: 9781555977672.
 
 Italo Calvino (1978). _Invisible Cities._ Harcourt Brace Jovanovich. ISBN: 9780156453806.
 
-“[The Meaning of Cities](https://hedgehogreview.com/issues/the-meaning-of-cities)”—_Hedgehog Review_, Summer 2017 issue
+“{{% resource_link "010c9981-f86c-4e41-97db-0a4bfbd5fce7" "The Meaning of Cities" %}}”—_Hedgehog Review_, Summer 2017 issue
 
 Recommended References on Style and Usage 
 ------------------------------------------
